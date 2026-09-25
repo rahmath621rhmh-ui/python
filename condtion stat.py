@@ -42,7 +42,7 @@ def missing_num (list):
 
 print (missing_num([5,6,7,8,10,11,12,13]))
 
-output
-9
+# output
+# 9
    
 
