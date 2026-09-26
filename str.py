@@ -117,6 +117,18 @@
 
 #  19. Remove all vowels from "python" using string operations (no loops if
 # possible 😈).
-
+# a= "hello"
+# a=a.replace("a", "")
+# a=a.replace("e", "")
+# a=a.replace("i","")
+# a=a.replace("o","")
+# a=a.replace("u","")
+# print(a)
+# output
+# hll
 
 # 20. Check if "madam" is a palindrome using slicing.
+# a="madam"
+# print(a==a[::-1])
+# output
+# True

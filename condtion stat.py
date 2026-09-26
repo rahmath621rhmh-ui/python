@@ -35,12 +35,12 @@
 
 # find the missing num in the list[5,6,7,8,10,11,12,13]
 
-def missing_num (list):
-    for i in range (5,13):
-          if i not in list:
-               return i
+# def missing_num (list):
+#     for i in range (5,13):
+#           if i not in list:
+#                return i
 
-print (missing_num([5,6,7,8,10,11,12,13]))
+# print (missing_num([5,6,7,8,10,11,12,13]))
 
 # output
 # 9
