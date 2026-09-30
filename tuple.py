@@ -127,14 +127,13 @@
 
 # 19. Convert a tuple of lists ([1,2],[3,4]) into a single flat list [1,2,3,4] .
 # a=([1,2],[3,4])
-# flat_list=list(a[0])+(a[1])
-# print(flat_list)
+# print(a[0]+a[1])
 # output
 # [1, 2, 3, 4]
 
 # 20. Given (1, [2,3], 4) , add 5 inside the inner list so result becomes (1, [2,3,5], 4) .
-# data = (1, [2, 3], 4)
-# data[1].append(5)
-# print(data)
+# num = (1, [2, 3], 4)
+# num[1].append(5)
+# print(num)
 # output
 # (1, [2, 3, 5], 4)
